@@ -11,7 +11,7 @@ sudo apt install expect
 sudo apt install python3
 pip3 install requests --break-system-packages
 ```
-# Install the tool
+# Installation of this tool
 
 ```shell
 git clone https://github.com/webdragon63/codis.git
