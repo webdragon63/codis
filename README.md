@@ -3,9 +3,7 @@
 Codis is a Python-based tool which designed for efficient and simplified content discovery on websites. By leveraging multithreading, it sends HTTP requests (GET, HEAD, etc.) to paths defined in a wordlist and checks for valid responses. It supports custom headers, verbose output for debugging, and the ability to save results to a file. Ideal for penetration testers seeking to identify accessible resources on a target website.
 
 ## Dependencies 
-expect
-python3
-requests
+expect, python3, requests
 
 ### To install these simply run this commands
 ```shell
